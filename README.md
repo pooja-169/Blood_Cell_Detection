@@ -29,3 +29,7 @@ Precision scores:
 **Research Paper**
 
 This project was documented in a research paper, which is available at:DOI: [http://dx.doi.org/10.1002/ima.70037]
+
+**Conclusion**
+
+This study provides insights into the effectiveness of different YOLO models for blood cell detection. YOLOv5 demonstrated superior performance in terms of mAP50, while individual models excelled in specific cell types. The results contribute to advancements in medical image analysis and automated blood diagnostics.
