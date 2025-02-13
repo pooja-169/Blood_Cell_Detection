@@ -8,11 +8,11 @@ The dataset used for this project was sourced from:Blood Cell Detection Dataset
 
 **Methodology**
 
-Implemented and trained YOLOv5, YOLOv7, YOLOv8, YOLOv9, and YOLOv10 for blood cell detection.
+->Implemented and trained YOLOv5, YOLOv7, YOLOv8, YOLOv9, and YOLOv10 for blood cell detection.
 
-Evaluated the models based on mAP50, precision, recall, and F1-score.
+->Evaluated the models based on mAP50, precision, recall, and F1-score.
 
-Conducted an in-depth comparative analysis to identify the most effective model for detecting RBCs, WBCs, and Platelets.
+->Conducted an in-depth comparative analysis to identify the most effective model for detecting RBCs, WBCs, and Platelets.
 
 **Results**
 
@@ -20,12 +20,12 @@ Best performing model: YOLOv5 achieved the highest mAP50 of 93.5%.
 
 Precision scores:
 
-RBCs: 85.1% (best model)
+->RBCs: 85.1% (best model)
 
-WBCs: 98.6% (best model)
+->WBCs: 98.6% (best model)
 
-Platelets: 88.8% (best model)
+->Platelets: 88.8% (best model)
 
 **Research Paper**
 
-This project was documented in a research paper, which is available at:DOI: [Your DOI Here]
+This project was documented in a research paper, which is available at:DOI: [http://dx.doi.org/10.1002/ima.70037]
